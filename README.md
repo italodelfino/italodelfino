@@ -36,12 +36,11 @@ Eu sou o Italo Delfino
     
 <div style="display: inline_block"><br>   
 <a href="https://discord.gg/italodelfino#4420" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-<a href = "mailto:italomartins.job@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/italo-martins-859000115" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://web.whatsapp.com/+5585985817152" target="_blank"><img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white></a>  
 <a href="mailto:italo_martins@outlook.com" target="_blank"><img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white></a> 
 <a href="https://web.telegram.org/z/+5585985817152" target="_blank"><img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white></a>
   
-![Snake animation](https://github.com/italodelfino/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
   
 </div>
