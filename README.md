@@ -4,7 +4,7 @@ Eu sou o Italo Delfino
 
 - 🔭 NO momento trabalho como gerente de suporte e estou rmigrando minha carreira para área de desenvolvimento...
 - 📚 No momento estou Cursando Analise e desenvolvimento de Sistema no 3° Semestre ...
-- 🖥️ Estudando  C#, .NET e Angular...
+- 🖥️ Estudando  Javascript, Node.JS, HTML e CSS...
 
 
 
@@ -23,7 +23,7 @@ Eu sou o Italo Delfino
   <img align="center" alt="italo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="italo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="italo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="italo-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="italo-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="italo-dotnetcore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 
