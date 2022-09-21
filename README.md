@@ -21,11 +21,10 @@ Eu sou o Italo Delfino
   
   <div style="display: inline_block"><br>
   <img align="center" alt="italo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="italo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="italo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="italo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   <img align="center" alt="italo-Javascript" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
   <img align="center" alt="italo-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="italo-node.js" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg](https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor)" />
+  <img align="center" alt="italo-node.js" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor"
   
 
 </div>
